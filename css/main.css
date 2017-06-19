@@ -1,0 +1,143 @@
+body {
+  background: #000000 url(../img/mickie1280.JPG) no-repeat;
+  background-position: center top;
+}
+
+.argx {
+  border-style: solid; 
+  padding: 5px;
+  width: 80px;
+  height: 80px;
+  text-align:center;
+  font: 70pt bold verdana;
+  background: white;
+}
+
+.power {
+  border-style: solid; 
+  padding: 5px;
+  width: 20%;
+  text-align: center;
+  font: 20pt bold times new roman;
+  background: white;
+}
+
+.argy {
+  border-style: solid; 
+  padding: 5px;
+  width: 80px;
+  text-align:center;
+  font: 70pt bold verdana;
+  background: white;
+}
+
+.equal {
+  border-style: solid; 
+  padding: 5px;
+  width: 100px;
+  text-align:center;
+  font: 30pt bold times new roman;
+  background: white;
+}
+
+table {
+  margin: 10% auto;
+}
+
+#section1 {
+  color: white;
+  text-align: center;
+  text-shadow: black 1px 1px 0, black -1px -1px 0, 
+               black -1px 1px 0, black 1px -1px 0;
+  font: bold 300% verdana;
+  color: #FFFF66;
+}
+
+#begin {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  right: 50%;
+  background-color: #CC6600;
+  border: 0px solid;
+}
+
+#answer {
+  width: 80px;
+  height: 80px;
+  font-size: 20pt;
+  border-style: solid; 
+}
+
+.inpt {
+  margin: auto;
+  margin-top: 20pt;
+  text-align: center;
+  font: bold 200% serif;
+  color: #CC6600;
+}
+
+.ok {
+  position: absolute;
+  top: 25px;
+  left: 200px;
+  right: 20px;
+  bottom: 60px;
+}
+
+.tdrght {
+  border-style: solid; 
+  padding: 5px;
+  width: 100px;
+  text-align:center;
+  font: 30pt bold times new roman;
+  background: white;
+}
+
+.end {
+  border-style: solid; 
+  padding: 5px;
+  width: 80px;
+  text-align:center;
+  font: 25pt bold times new roman;
+  background-color: green;
+  }
+
+.end1 {
+  border-style: solid; 
+  padding: 5px;
+  width: 80px;
+  text-align:center;
+  font: 25pt bold times new roman;
+  background-color: #CC9933;
+  }
+
+#goodboy {
+  text-align:center;
+  font: 25pt bold times new roman;
+  margin: 40pt auto;
+	color: white;
+  text-align: center;
+  text-shadow: black 1px 1px 0, black -1px -1px 0, 
+               black -1px 1px 0, black 1px -1px 0;
+  font: bold 300% verdana;
+  color: #FFFF66;
+  }
+  
+div.form {
+ background: brown;
+}
+
+div.work {
+  color: white;
+  text-align: center;
+  text-shadow: black 1px 1px 0, black -1px -1px 0, 
+               black -1px 1px 0, black 1px -1px 0;
+  font: bold 300% verdana;
+  color: #FFFF66;
+  position: absolute;  
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 80px;
+}
