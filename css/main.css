@@ -141,3 +141,25 @@ div.work {
   right: 15px;
   bottom: 80px;
 }
+
+#tmr {
+    border: solid black;
+    width: 200px;
+    height: 60px;
+    margin: auto 30%;
+    font: 300% verdana;
+    background: white;
+    text-align: center;
+}
+
+
+    
+
+/*#bugs1 {
+    width: 220px;
+    height: 60px;
+    border: solid black;
+    background: #FF3300;
+    margin: auto 43%;
+    font: 110% verdana;
+}*/

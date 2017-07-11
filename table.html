@@ -9,10 +9,15 @@
 <body>
 <div id="section1" style = "display: block;">
   Таблица умножения <br><br><br>Готов проверить свой навык?
-<img src="img/play_button.JPG" id="begin" onclick="showSection(2); answer.focus();" alt='Начать игру'/>  
+<img src="img/play_button.JPG" id="begin" onclick="showSection(2); answer.focus(); time();" alt='Начать игру'/>  
 </div>
 
 <div id="section2" style = "display: none;">
+  <form>
+      <input type="hidden" id="hide" value="0:15">
+  </form> 
+  <div id = "tmr">    
+  </div>
   <table>
     <tr>
       <td class="argx">
@@ -41,7 +46,7 @@
           <!--button type = "button" onclick="compareResult();"/--> 
           <!---input type="button" onclick="alert(answer.value);" value="Ok2"/>          
       </form>    
-    </div-->
+    </div-->    
 </div>
 
 <div id="section3" style = "display: none;">
